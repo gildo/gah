@@ -1,5 +1,7 @@
-gah - The **G**ithub **A**PI **H**elper
-=======
+gah
+===
+
+The **G**ithub **A**PI **H**elper
 
 **gah** allows you to access some features that Github didn't made available in the APIs
 
