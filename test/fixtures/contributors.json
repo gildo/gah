@@ -1,0 +1,175 @@
+{
+  "contributors": [
+    {
+      "name": "Scott Chacon",
+      "company": "GitHub",
+      "gravatar_id": "9375a9529679f1b42b567a640d775e7d",
+      "location": "San Francisco, CA",
+      "blog": "http://scottchacon.com",
+      "contributions": 102,
+      "type": "User",
+      "login": "schacon",
+      "email": "schacon@gmail.com"
+    },
+    {
+      "name": "Josh Nichols",
+      "company": "Rails Machine",
+      "gravatar_id": "1c1aabc1abed5cce37b192dd00f0f28c",
+      "location": "Savannah, GA",
+      "blog": "http://technicalpickles.com",
+      "contributions": 23,
+      "type": "User",
+      "login": "technicalpickles",
+      "email": "josh@technicalpickles.com"
+    },
+    {
+      "name": "James Rosen",
+      "company": "Zendesk",
+      "gravatar_id": "2c1a10ad0cce0f73e11a2a558a69f97c",
+      "location": "San Francisco, CA",
+      "blog": "http://jamesarosen.com",
+      "contributions": 4,
+      "type": "User",
+      "login": "jamesarosen",
+      "email": ""
+    },
+    {
+      "name": "",
+      "company": "yreality",
+      "gravatar_id": "4eac78fe7a7a607dcc097a0d6fd63690",
+      "location": "Anchorage, Alaska",
+      "blog": "http://elliottcable.name/",
+      "contributions": 4,
+      "type": "User",
+      "login": "elliottcable",
+      "email": "github@elliottcable.name"
+    },
+    {
+      "name": "Jorge Bernal",
+      "company": "",
+      "gravatar_id": "f0ed65ceb91288cd85f434a37665f08a",
+      "location": "Zaragoza, Spain",
+      "blog": "http://www.jorgebernal.info",
+      "contributions": 3,
+      "type": "User",
+      "login": "koke",
+      "email": "koke@amedias.org"
+    },
+    {
+      "name": "Yuichi Tateno",
+      "company": "Japan",
+      "gravatar_id": "2997ec7879942bd0415690c85731e328",
+      "location": "Tokyo",
+      "blog": "http://tako3.com/http://github.com/hotchpotch",
+      "contributions": 3,
+      "type": "User",
+      "login": "hotchpotch"
+    },
+    {
+      "name": "Eric Goodwin",
+      "company": "Eric Goodwin Consulting",
+      "gravatar_id": "bc9107a539c4181f8dfe0db3ae2d3870",
+      "location": "Squamish BC, Canada",
+      "blog": "ericgoodwin.com",
+      "contributions": 2,
+      "type": "User",
+      "login": "ericgoodwin",
+      "email": "eric@ericgoodwin.com"
+    },
+    {
+      "name": "Jonathan Rudenberg",
+      "company": "Shopify",
+      "gravatar_id": "02319fb5cbcf9309a4bd0ea7c791e5d6",
+      "location": "Ottawa, Ontario, Canada",
+      "blog": "http://titanous.com",
+      "contributions": 2,
+      "type": "User",
+      "login": "titanous",
+      "email": "jonathan@titanous.com"
+    },
+    {
+      "name": "Gianni Chiappetta",
+      "company": "Runlevel6",
+      "gravatar_id": "4b0209ae3652cc5a7d53545e759fbe39",
+      "location": "Toronto, Canada",
+      "blog": "http://gf3.ca",
+      "contributions": 2,
+      "type": "User",
+      "login": "gf3",
+      "email": "gianni@runlevel6.org"
+    },
+    {
+      "name": "Michael Siebert",
+      "company": "Siebert WD",
+      "gravatar_id": "b1df5f5425fbcf65f92d0af13d43e7f7",
+      "location": "Berlin, Germany",
+      "blog": "http://www.siebert-wd.de",
+      "contributions": 1,
+      "type": "User",
+      "login": "siebertm",
+      "email": "siebertm85@googlemail.com"
+    },
+    {
+      "name": "Bryan Larsen",
+      "gravatar_id": "5b5b5e62e63d6bc80d4c3262426856ae",
+      "location": "ottawa",
+      "blog": "http://bryan.larsen.st",
+      "contributions": 1,
+      "type": "User",
+      "login": "bryanlarsen",
+      "email": "bryan@larsen.st"
+    },
+    {
+      "name": "Zachery Hostens",
+      "gravatar_id": "906a1da59daf04ad177578edede7bb17",
+      "location": "Bettendorf, Iowa",
+      "blog": "http://zacheryph.github.com/",
+      "contributions": 1,
+      "type": "User",
+      "login": "zacheryph",
+      "email": "zacheryph@gmail.com"
+    },
+    {
+      "name": "Ken Pratt",
+      "gravatar_id": "a1d3f5af6ebf01fccd9e772ca2a04ba5",
+      "location": "Vancouver, BC",
+      "contributions": 1,
+      "type": "User",
+      "login": "kenpratt",
+      "email": "ken@kenpratt.net"
+    },
+    {
+      "name": "Devyn Cairns",
+      "company": "",
+      "gravatar_id": "600ad48eea92da6bdab1e6d2b51bf819",
+      "location": "Richmond, BC",
+      "blog": "http://devyn.tumblr.com/",
+      "contributions": 1,
+      "type": "User",
+      "login": "devyn",
+      "email": "devyn.cairns@gmail.com"
+    },
+    {
+      "name": "Joshua Peek",
+      "company": "GitHub",
+      "gravatar_id": "bbe5dc8dcf248706525ab76f46185520",
+      "location": "Chicago, IL",
+      "blog": "http://joshpeek.com/",
+      "contributions": 1,
+      "type": "User",
+      "login": "josh",
+      "email": "josh@joshpeek.com"
+    },
+    {
+      "name": "Michael Hale",
+      "company": "Heroku",
+      "gravatar_id": "f32260ad731c452407bbb13de4cb5e8f",
+      "location": "Holly Springs, NC",
+      "blog": "http://michaelahale.com",
+      "contributions": 1,
+      "type": "User",
+      "login": "mikehale",
+      "email": "mike@hales.ws"
+    }
+  ]
+}
