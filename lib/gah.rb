@@ -12,6 +12,8 @@ module Gah
 
   VERSION = "0.0.2"
 
+  class Error < StandardError; end
+
   class NotFound < Error; end
 
 end
