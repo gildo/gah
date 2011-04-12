@@ -22,4 +22,8 @@ context "Repository" do
     assert_equal "cfad76700b3d38eb3be97e2d5ef75cc0a398f818", @tags["v1.2.0"]
   end
 
+  test "commits list" do
+    
+  end
+
 end

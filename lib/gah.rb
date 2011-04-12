@@ -6,6 +6,7 @@ $LOAD_PATH.unshift(dir)
 
 require 'gah/helpers'
 require 'gah/repository'
+require 'gah/commits'
 
 module Gah
 

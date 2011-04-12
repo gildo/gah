@@ -1,0 +1,815 @@
+{
+  "commits": [
+    {
+      "parents": [
+        {
+          "id": "7250ad418aaa4e725786387e0f66654e75ac1a5d"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/94f389bf5d9af4511597d035e69d1be9510b50c7",
+      "id": "94f389bf5d9af4511597d035e69d1be9510b50c7",
+      "committed_date": "2009-10-17T08:00:26-07:00",
+      "authored_date": "2009-10-17T08:00:26-07:00",
+      "message": "Regenerated gemspec for version 1.2.5",
+      "tree": "cf0c709dbbc877076944a2cc74e2456ad9cbd7b3",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "cf01e252dbcfce315697b80cd38714f8e1939814"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/7250ad418aaa4e725786387e0f66654e75ac1a5d",
+      "id": "7250ad418aaa4e725786387e0f66654e75ac1a5d",
+      "committed_date": "2009-10-17T08:00:01-07:00",
+      "authored_date": "2009-10-17T08:00:01-07:00",
+      "message": "Version bump to 1.2.5",
+      "tree": "91369e1d35f6c424d7cbfde7fb3c9459403ecae4",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "1987b5010ed1abff915bd87146753323754bfb13"
+        }
+      ],
+      "author": {
+        "name": "Bryan Larsen",
+        "login": "bryanlarsen",
+        "email": "bryan@larsen.st"
+      },
+      "url": "/schacon/ruby-git/commit/cf01e252dbcfce315697b80cd38714f8e1939814",
+      "id": "cf01e252dbcfce315697b80cd38714f8e1939814",
+      "committed_date": "2009-10-17T07:59:25-07:00",
+      "authored_date": "2009-10-13T16:16:07-07:00",
+      "message": "allow ls_files to take a subdirectory argument",
+      "tree": "d5c3a06bcc670992cdbe59fb950777c5abd03194",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "d11da5ba016e6d1d55bd3ee739f1ecc48abac94e"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/1987b5010ed1abff915bd87146753323754bfb13",
+      "id": "1987b5010ed1abff915bd87146753323754bfb13",
+      "committed_date": "2009-10-01T20:24:44-07:00",
+      "authored_date": "2009-10-01T20:24:44-07:00",
+      "message": "Regenerated gemspec for version 1.2.4",
+      "tree": "1c2063198afbcf2854257620a77fc861820dc1e1",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "a7aadb29e325cb6cb7c59d75c9b7c79aa2d85b9b"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/d11da5ba016e6d1d55bd3ee739f1ecc48abac94e",
+      "id": "d11da5ba016e6d1d55bd3ee739f1ecc48abac94e",
+      "committed_date": "2009-10-01T20:24:15-07:00",
+      "authored_date": "2009-10-01T20:24:15-07:00",
+      "message": "Version bump to 1.2.4",
+      "tree": "40e530177e24e38eda525c795de8a27fbc2b8091",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "2962356828cc0ce07674b1c1fa39fde893732344"
+        }
+      ],
+      "author": {
+        "name": "Zachery Hostens",
+        "login": "zacheryph",
+        "email": "zacheryph@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/a7aadb29e325cb6cb7c59d75c9b7c79aa2d85b9b",
+      "id": "a7aadb29e325cb6cb7c59d75c9b7c79aa2d85b9b",
+      "committed_date": "2009-10-01T20:14:02-07:00",
+      "authored_date": "2009-10-01T20:14:02-07:00",
+      "message": "give block a path arg so ruby1.9 doesnt throw exception",
+      "tree": "870e53cacd78091e6ee4a004054e1997aa10a5d7",
+      "committer": {
+        "name": "Zachery Hostens",
+        "login": "zacheryph",
+        "email": "zacheryph@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "2411e86c2986b4d8fc0b9248ae59fb54cbd133a9"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/2962356828cc0ce07674b1c1fa39fde893732344",
+      "id": "2962356828cc0ce07674b1c1fa39fde893732344",
+      "committed_date": "2009-09-29T23:46:02-07:00",
+      "authored_date": "2009-09-29T23:46:02-07:00",
+      "message": "Regenerated gemspec for version 1.2.3",
+      "tree": "a3b8d368ae463950abd1f93db51f8f652a6223b7",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "257804056985438cf1a64e9e313fb38be3f72d49"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/2411e86c2986b4d8fc0b9248ae59fb54cbd133a9",
+      "id": "2411e86c2986b4d8fc0b9248ae59fb54cbd133a9",
+      "committed_date": "2009-09-29T23:45:55-07:00",
+      "authored_date": "2009-09-29T23:45:55-07:00",
+      "message": "Version bump to 1.2.3",
+      "tree": "49f1435eba9e46bf27ddd6d1cfd726374ff9fa2f",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "ea0a1f9909db061dc91b6364e193462a087dbe6a"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/257804056985438cf1a64e9e313fb38be3f72d49",
+      "id": "257804056985438cf1a64e9e313fb38be3f72d49",
+      "committed_date": "2009-09-29T23:43:25-07:00",
+      "authored_date": "2009-09-29T23:43:25-07:00",
+      "message": "Escape with double quotes instead of single",
+      "tree": "7abca32d6471b4b6dd7c1d0babbab701c45cf576",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "a825ea70e52b9a46eca869fe3ade09aef4a08233"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/ea0a1f9909db061dc91b6364e193462a087dbe6a",
+      "id": "ea0a1f9909db061dc91b6364e193462a087dbe6a",
+      "committed_date": "2009-09-29T23:39:44-07:00",
+      "authored_date": "2009-09-29T23:39:44-07:00",
+      "message": "Fixed github url, and updated install instructions to use rubyforge.",
+      "tree": "8755cd01ea5e66ee57e722a65abfb71bbe4913e2",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "053d49c8eb4e9cd5509b9d4fede8e2dd3adf9fa2"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/a825ea70e52b9a46eca869fe3ade09aef4a08233",
+      "id": "a825ea70e52b9a46eca869fe3ade09aef4a08233",
+      "committed_date": "2009-09-29T23:38:49-07:00",
+      "authored_date": "2009-08-02T01:07:09-07:00",
+      "message": "Switch over to new jeweler rubyforge tasks.",
+      "tree": "822408f585f0c818b9b834b765832c5fcb31555e",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "85fa6ec3a68b6ff8acfa69c59fbdede1385f63bb"
+        }
+      ],
+      "author": {
+        "name": "schacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/053d49c8eb4e9cd5509b9d4fede8e2dd3adf9fa2",
+      "id": "053d49c8eb4e9cd5509b9d4fede8e2dd3adf9fa2",
+      "committed_date": "2009-08-10T08:08:42-07:00",
+      "authored_date": "2009-08-10T08:08:42-07:00",
+      "message": "",
+      "tree": "0fc20ce4ddad67d0abbff3e6d34bc6d17e9ff059",
+      "committer": {
+        "name": "schacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "b8eb7ddda6390a475a12c62ca055d24e0382e696"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/85fa6ec3a68b6ff8acfa69c59fbdede1385f63bb",
+      "id": "85fa6ec3a68b6ff8acfa69c59fbdede1385f63bb",
+      "committed_date": "2009-08-02T01:06:03-07:00",
+      "authored_date": "2009-08-02T01:06:03-07:00",
+      "message": "Regenerated gemspec for version 1.2.2",
+      "tree": "1a0ecfc2bd9f9b13d2a69e263f07965c2979ad13",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "4cc87eb54780c84dd4528316c6c4ebfb37100043"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/b8eb7ddda6390a475a12c62ca055d24e0382e696",
+      "id": "b8eb7ddda6390a475a12c62ca055d24e0382e696",
+      "committed_date": "2009-08-02T01:05:57-07:00",
+      "authored_date": "2009-08-02T01:05:57-07:00",
+      "message": "Version bump to 1.2.2",
+      "tree": "3ca4a8979c081b63c24ed718eb4b95691320caac",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "f85cef0b1916f09ceb38f778ada98b23c8610da7"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/4cc87eb54780c84dd4528316c6c4ebfb37100043",
+      "id": "4cc87eb54780c84dd4528316c6c4ebfb37100043",
+      "committed_date": "2009-08-02T01:01:34-07:00",
+      "authored_date": "2009-08-02T01:01:34-07:00",
+      "message": "Account for not having a tiny git version (ie 1.6.4)",
+      "tree": "28207cbcea462673e9b45517eec493049b937f75",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "c9909743abba33c9776b4b2c8534d3caa40a42ca"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/f85cef0b1916f09ceb38f778ada98b23c8610da7",
+      "id": "f85cef0b1916f09ceb38f778ada98b23c8610da7",
+      "committed_date": "2009-08-01T16:01:35-07:00",
+      "authored_date": "2009-08-01T16:01:35-07:00",
+      "message": "Regenerated gemspec for version 1.2.1",
+      "tree": "ae69646f2dfe5b44e8c9ebe778d83e3c7ef67597",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "2aca2933def7bccb2836d4f0d5ccfdc964238cb8"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/c9909743abba33c9776b4b2c8534d3caa40a42ca",
+      "id": "c9909743abba33c9776b4b2c8534d3caa40a42ca",
+      "committed_date": "2009-08-01T16:01:30-07:00",
+      "authored_date": "2009-08-01T16:01:30-07:00",
+      "message": "Version bump to 1.2.1",
+      "tree": "35db7ceed986a39715d92301d963cf681203bdf6",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "cfad76700b3d38eb3be97e2d5ef75cc0a398f818"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/2aca2933def7bccb2836d4f0d5ccfdc964238cb8",
+      "id": "2aca2933def7bccb2836d4f0d5ccfdc964238cb8",
+      "committed_date": "2009-08-01T15:59:43-07:00",
+      "authored_date": "2009-08-01T15:59:43-07:00",
+      "message": "Moved logic to determine if git command meets required version down into Git::Lib, so other libraries can make use of it.",
+      "tree": "38b796cf3bbd31f47300876830ff04015d5b9f08",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "145172b307738de6d4db893194f11e502573affa"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/cfad76700b3d38eb3be97e2d5ef75cc0a398f818",
+      "id": "cfad76700b3d38eb3be97e2d5ef75cc0a398f818",
+      "committed_date": "2009-08-01T15:17:54-07:00",
+      "authored_date": "2009-08-01T15:17:54-07:00",
+      "message": "Regenerated gemspec for version 1.2.0",
+      "tree": "d50890d5f4b072e9c509ff780bbf627567486e46",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "ddc5b77c8fd293221830630e0c20ced55222a644"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/145172b307738de6d4db893194f11e502573affa",
+      "id": "145172b307738de6d4db893194f11e502573affa",
+      "committed_date": "2009-08-01T15:17:42-07:00",
+      "authored_date": "2009-08-01T15:17:42-07:00",
+      "message": "Version bump to 1.2.0",
+      "tree": "24782dce9b8b6fead895e8ccb07d556ec0b38783",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "1455f9a3ef7b60786fd885aae395d07191bedaab"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/ddc5b77c8fd293221830630e0c20ced55222a644",
+      "id": "ddc5b77c8fd293221830630e0c20ced55222a644",
+      "committed_date": "2009-08-01T15:17:30-07:00",
+      "authored_date": "2009-08-01T15:17:30-07:00",
+      "message": "Added a warning if you're using an old version of git.",
+      "tree": "f810c1a8ab59c5d4c2d7df8a74ecb3062484163c",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "b86cbd6205b7c8d7769f330f8ddcf31b160f3aea"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/1455f9a3ef7b60786fd885aae395d07191bedaab",
+      "id": "1455f9a3ef7b60786fd885aae395d07191bedaab",
+      "committed_date": "2009-08-01T15:16:30-07:00",
+      "authored_date": "2009-08-01T15:16:30-07:00",
+      "message": "Added a real summary, and a requirement on git 1.6.0.0 to gemspec.",
+      "tree": "855987b47fe0936760e64038920193852c097843",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "4de1494c84fd5a5078f594f7d26ed667b1bc80ee"
+        }
+      ],
+      "author": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/b86cbd6205b7c8d7769f330f8ddcf31b160f3aea",
+      "id": "b86cbd6205b7c8d7769f330f8ddcf31b160f3aea",
+      "committed_date": "2009-08-01T14:48:53-07:00",
+      "authored_date": "2009-08-01T14:48:53-07:00",
+      "message": "Improved support for configuration.\n\n- Use `git config` directly, because it will normalize extra spaces,\n  quotations, etc.\n- Added support for a global configuration.",
+      "tree": "83f86fc78ba2f7228b48881698fbb213197f5146",
+      "committer": {
+        "name": "Joshua Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "8131f47c9d1832a685e35cc2f838edf439f7af4c"
+        }
+      ],
+      "author": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/4de1494c84fd5a5078f594f7d26ed667b1bc80ee",
+      "id": "4de1494c84fd5a5078f594f7d26ed667b1bc80ee",
+      "committed_date": "2009-05-04T13:37:01-07:00",
+      "authored_date": "2009-05-04T13:37:01-07:00",
+      "message": "Whoops... removed extra jeweler skeleton.",
+      "tree": "f0a20777dd028f1e07350d904081d9e6e802669c",
+      "committer": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "decd4b2c8447c5c4f8c86f7cce393cde2cb88d16"
+        }
+      ],
+      "author": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/8131f47c9d1832a685e35cc2f838edf439f7af4c",
+      "id": "8131f47c9d1832a685e35cc2f838edf439f7af4c",
+      "committed_date": "2009-05-04T13:32:14-07:00",
+      "authored_date": "2009-05-04T13:12:29-07:00",
+      "message": "Switched to jeweler.",
+      "tree": "314b18a9d69a13ea4db8c8195ac9df970200cdca",
+      "committer": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "ee90922f3da3f67ef19853a0759c1d09860fe3b3"
+        }
+      ],
+      "author": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      },
+      "url": "/schacon/ruby-git/commit/decd4b2c8447c5c4f8c86f7cce393cde2cb88d16",
+      "id": "decd4b2c8447c5c4f8c86f7cce393cde2cb88d16",
+      "committed_date": "2009-04-26T19:57:14-07:00",
+      "authored_date": "2009-04-26T19:57:14-07:00",
+      "message": "Removed deprecated use of Gem.manage_gems. Added homepage to gemspec to make rubygems-1.3.2 happy.",
+      "tree": "e5fc41ed0a5e6ff2e4a8b26b6ca8d9677a22b751",
+      "committer": {
+        "name": "Josh Nichols",
+        "login": "technicalpickles",
+        "email": "josh@technicalpickles.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "96bf1ac28377bdaa6b26fbaf160894c2e99c6cd1"
+        }
+      ],
+      "author": {
+        "name": "Gianni Chiappetta",
+        "login": "gf3",
+        "email": "gianni@runlevel6.org"
+      },
+      "url": "/schacon/ruby-git/commit/ee90922f3da3f67ef19853a0759c1d09860fe3b3",
+      "id": "ee90922f3da3f67ef19853a0759c1d09860fe3b3",
+      "committed_date": "2009-03-17T08:26:01-07:00",
+      "authored_date": "2009-03-17T08:26:01-07:00",
+      "message": "Added support for filenames which are quoted (usually containing international/unicode characters).",
+      "tree": "b7b7c01b41147f8e8afd0ab93238b0a87d926f3c",
+      "committer": {
+        "name": "Gianni Chiappetta",
+        "login": "gf3",
+        "email": "gianni@runlevel6.org"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "076df64623e0b0627457671f2e921ab2e15f3c0e"
+        }
+      ],
+      "author": {
+        "name": "Gianni Chiappetta",
+        "login": "gf3",
+        "email": "gianni@runlevel6.org"
+      },
+      "url": "/schacon/ruby-git/commit/96bf1ac28377bdaa6b26fbaf160894c2e99c6cd1",
+      "id": "96bf1ac28377bdaa6b26fbaf160894c2e99c6cd1",
+      "committed_date": "2009-03-12T11:52:58-07:00",
+      "authored_date": "2009-03-12T11:52:58-07:00",
+      "message": "Status no longer includes ignored files.",
+      "tree": "8987d6e728a9424d082a2a6ca6a1afdaef0a3794",
+      "committer": {
+        "name": "Gianni Chiappetta",
+        "login": "gf3",
+        "email": "gianni@runlevel6.org"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "0cb54345b34fab6616f153c884fdc385180404a5"
+        }
+      ],
+      "author": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/076df64623e0b0627457671f2e921ab2e15f3c0e",
+      "id": "076df64623e0b0627457671f2e921ab2e15f3c0e",
+      "committed_date": "2009-02-12T09:22:32-08:00",
+      "authored_date": "2009-02-12T09:22:32-08:00",
+      "message": "version bump to 1.1.1",
+      "tree": "cd85479ab1783ac8c8fca1810caf3b785fa60d6b",
+      "committer": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "86b45edcfe0026370cdff0ecea83348b406b3d92"
+        },
+        {
+          "id": "9863034427dfd13aef0c19faa140a433542064ce"
+        }
+      ],
+      "author": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/0cb54345b34fab6616f153c884fdc385180404a5",
+      "id": "0cb54345b34fab6616f153c884fdc385180404a5",
+      "committed_date": "2009-02-12T09:16:03-08:00",
+      "authored_date": "2009-02-12T09:16:03-08:00",
+      "message": "Merge commit 'origin/master' into minad/master",
+      "tree": "de5fdf987c016c36f2abbd0bb33561ed52e2bb97",
+      "committer": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "257fd8db3e60fb655af3c42e224d0a9acaa3624e"
+        }
+      ],
+      "author": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/9863034427dfd13aef0c19faa140a433542064ce",
+      "id": "9863034427dfd13aef0c19faa140a433542064ce",
+      "committed_date": "2009-02-12T09:12:49-08:00",
+      "authored_date": "2009-02-12T09:12:49-08:00",
+      "message": "bumped version to 1.1 - ruby 1.9 compatible now",
+      "tree": "a6628ea7dbdcebc4dd9cb1712ff39a6c1a404143",
+      "committer": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "b97ff5e0ffd259a15d435da1036a3ac3c6bd6d7a"
+        }
+      ],
+      "author": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/257fd8db3e60fb655af3c42e224d0a9acaa3624e",
+      "id": "257fd8db3e60fb655af3c42e224d0a9acaa3624e",
+      "committed_date": "2009-02-12T09:12:00-08:00",
+      "authored_date": "2009-02-12T09:12:00-08:00",
+      "message": "fixes to stash apply so tests pass",
+      "tree": "e3c75cf1d6e51cdd337933b2c7cfc650a2355a17",
+      "committer": {
+        "name": "Scott Chacon",
+        "login": "schacon",
+        "email": "schacon@gmail.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "a51210199671cd4fcf2fcfa5ba286829a73aeb62"
+        }
+      ],
+      "author": {
+        "name": "Jonathan Rudenberg",
+        "login": "titanous",
+        "email": "jon335@gmail.com"
+      },
+      "url": "/schacon/ruby-git/commit/b97ff5e0ffd259a15d435da1036a3ac3c6bd6d7a",
+      "id": "b97ff5e0ffd259a15d435da1036a3ac3c6bd6d7a",
+      "committed_date": "2009-02-12T08:55:22-08:00",
+      "authored_date": "2008-12-23T16:08:19-08:00",
+      "message": "remove doc from revision control\n\nSigned-off-by: elliottcable <github.com@elliottcable.com>",
+      "tree": "581d5ca99b489e6589270917e57bd08f6fe0a8c0",
+      "committer": {
+        "name": "elliottcable",
+        "login": "elliottcable",
+        "email": "github.com@elliottcable.com"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "08922f6753637d29fee0e75b00c8e30ee3f09d30"
+        },
+        {
+          "id": "a51210199671cd4fcf2fcfa5ba286829a73aeb62"
+        }
+      ],
+      "author": {
+        "name": "Daniel Mendler",
+        "login": "",
+        "email": "minad@slizer.hadiko.de"
+      },
+      "url": "/schacon/ruby-git/commit/86b45edcfe0026370cdff0ecea83348b406b3d92",
+      "id": "86b45edcfe0026370cdff0ecea83348b406b3d92",
+      "committed_date": "2009-02-12T08:41:19-08:00",
+      "authored_date": "2009-02-12T08:41:19-08:00",
+      "message": "Merge branch 'master' of git://github.com/elliottcable/ruby-git\n\nConflicts:\n\tlib/git/lib.rb",
+      "tree": "65e317f8463a467560f010aa1fd276f964a3c6be",
+      "committer": {
+        "name": "Daniel Mendler",
+        "login": "",
+        "email": "minad@slizer.hadiko.de"
+      }
+    },
+    {
+      "parents": [
+        {
+          "id": "690b2de5a4021d923cc50b0d4f2ed0451a130631"
+        }
+      ],
+      "author": {
+        "name": "elliottcable",
+        "login": "elliottcable",
+        "email": "git@elliottcable.name"
+      },
+      "url": "/schacon/ruby-git/commit/a51210199671cd4fcf2fcfa5ba286829a73aeb62",
+      "id": "a51210199671cd4fcf2fcfa5ba286829a73aeb62",
+      "committed_date": "2009-02-12T07:49:18-08:00",
+      "authored_date": "2009-02-12T07:49:18-08:00",
+      "message": "Version bump to indicate Ruby 1.9.1 compatibility",
+      "tree": "36da62b805afa31d123e652db31a970d1eb06e14",
+      "committer": {
+        "name": "elliottcable",
+        "login": "elliottcable",
+        "email": "git@elliottcable.name"
+      }
+    }
+  ]
+}

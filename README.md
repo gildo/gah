@@ -20,7 +20,7 @@ Initialize a new Repo
 
 Number of commits in a repo:
 
-    gah.commits
+    gah.contributions
 
     => 67
 
@@ -39,12 +39,29 @@ Number of contributors:
 
     => 3
 
-List of tags:
+Tags list:
 
     gah.tags
 
     => {v1.2.0} => "cfad76700b3d38eb3be97e2d5ef75cc0a398f818" 
     etc
+
+List commits ( default "master" )
+
+    commits = Gah::Commits.new("schacon/ruby-git").commits
+
+    =>
+    {
+    "commits": [
+    {
+      "parents": [
+        {
+          "id": "7250ad418aaa4e725786387e0f66654e75ac1a5d"
+        }
+      ],
+      "author": { ...etc
+
+
 
 license
 -------
