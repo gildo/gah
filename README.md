@@ -48,7 +48,9 @@ Tags list:
 
 List commits ( default "master" )
 
-    commits = Gah::Commits.new("schacon/ruby-git").commits
+    @repo = Gah::Commits.new("schacon/ruby-git")
+
+    @repo.commits
 
     =>
     {
@@ -61,6 +63,13 @@ List commits ( default "master" )
       ],
       "author": { ...etc
 
+
+List contributions by reference:
+
+    @repo.refmits("v1.2.0")
+
+    =>
+    {scachon => ["cfad76700b3d38eb3be97e2d5ef75cc0a398f818"], [...etc }
 
 
 license

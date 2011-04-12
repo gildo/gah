@@ -8,9 +8,14 @@ context "Commits" do
   end
 
   test "commits list" do
-    assert @commits = @repo.commits
+    assert @commits    = @repo.commits
     assert_not_nil(@id = @commits["commits"][0]["id"])
     assert_equal @fixture["commits"][0]["id"], @id
+  end
+
+  test "contributions by ref" do
+    @refmits     = @repo.refmits("v1.2.0")
+    assert_equal = 12, @refmits["schacon"].length
   end
 
 end

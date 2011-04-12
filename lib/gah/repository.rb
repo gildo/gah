@@ -26,8 +26,5 @@ module Gah
       tags = gapi (BASE + @repo  + "/tags")
     end
 
-    def refs
-    end
-
   end
 end
