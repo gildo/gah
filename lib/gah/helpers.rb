@@ -12,7 +12,7 @@ module Helpers
     body = JSON.parse(response.body)
 
     if body.has_key? "error"
-      raise "#{uri}"
+      raise NotFound
     end
 
     return body
